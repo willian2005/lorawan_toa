@@ -1,3 +1,5 @@
+Compatible with python3.
+
 LoRa/LoRaWAN Time on Air calculator
 ===================================
 
